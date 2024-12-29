@@ -6,7 +6,7 @@ editor: visual
 
 ## Interests
 
-R lang, Sample Size Determination (Sample Size Justification), Test theory, Bayesian Modeling, Psychometrics, Graph theory, Linear algebra, Ubuntu, MPI, C++.
+R lang, Sample Size Determination (Sample Size Justification), Sequential Analysis, Test theory, Bayesian Modeling, Psychometrics, Graph theory, Linear algebra, Ubuntu, MPI, C++, Agile, Scrum.
 
 Movie, Anime, Manga, Manzai, Book hoarding, Martial Arts, Dharma and Zenn.
 
