@@ -1,0 +1,53 @@
+---
+title: "Hanadate, Shuhei (花立 修平)"
+format: html
+editor: visual
+---
+
+## Interests
+
+R lang, Sample Size Determination (Sample Size Justification), Test theory, Bayesian Modeling, Psychometrics, Graph theory, Linear algebra, Ubuntu, MPI, C++.
+
+Movie, Anime, Manga, Manzai, Book hoarding, Martial Arts, Dharma and Zenn.
+
+## ORCID
+
+<https://orcid.org/0009-0003-7570-6446>
+
+## Certification
+
+-   Certified ScrumMaster (2018/05\~2024/05)
+
+-   Certified Scrum Product Owner (2018/04\~2024/04)
+
+-   PMI Agile Certified Practitioner (2019/11\~2022/11)
+
+-   SPSS Modeler Professional v3
+
+-   IBM Certified Data Scientist
+
+## Award
+
+General Manager Award of IBM Japan, 2019/2H.
+
+## Biography
+
+2024: Enroll in University of Tukuba for master's program in Psychology.
+
+2021: Be a father.
+
+2016: Started to work as Consultant for data science \@ IBM. The last position was a managing consultant who managed 2 or 3 projects parallelly and reporting line for a newbie team.
+
+2012: Enrolled in Waseda University for undergraduate program in Psychology.
+
+2006: Enrolled in Waseda Junior & Senior High School.
+
+1993: Born in Kanagawa.
+
+## Side Hustle
+
+-   Boxing: In Waseda University, was a fly-weight or bantam-weight boxer for a club team, which produced a world champion and some japan champions. And 2021, it was 5 years after the graduation, proceeded into professional rings. Although the career was not successful, learned alot.
+
+-   Teaching Japanese: In my hometown Mitaka, working as a volunteer for Mitaka International Society for Hospitality (MISHOP).
+
+-   Support Research: In University of Tsukuba, working for Global Front-runner in Engeneering, Science & Technology (GFEST) to support research by high school students. Provided skills and knowledges about psychometrics to enhance their research.
