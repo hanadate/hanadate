@@ -36,7 +36,7 @@ General Manager Award of IBM Japan, 2019/2H.
 
 2021: Be a father.
 
-2016: Started to work as Consultant for data science \@ IBM. The last position was a managing consultant who managed 2 or 3 projects parallelly and reporting line for a newbie team.
+2016: Started to work as Consultant for data science \@ IBM. The last position was a managing consultant who managed 2 or 3 projects parallelly and reporting line for a newbie team. Quitted it in 2024.
 
 2012: Enrolled in Waseda University for undergraduate program in Psychology.
 
@@ -51,3 +51,7 @@ General Manager Award of IBM Japan, 2019/2H.
 -   Teaching Japanese: In my hometown Mitaka, working as a volunteer for Mitaka International Society for Hospitality (MISHOP).
 
 -   Support Research: In University of Tsukuba, working for Global Front-runner in Engeneering, Science & Technology (GFEST) to support research by high school students. Provided skills and knowledges about psychometrics to enhance their research.
+
+## Contact
+
+hanadate.shuhei.tkb_gb\[atmark\]u.tsukuba.ac.jp
