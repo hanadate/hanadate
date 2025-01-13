@@ -30,6 +30,24 @@ Movie, Anime, Manga, Manzai, Book hoarding, Martial Arts, Dharma and Zenn.
 
 -   IBM Certified Data Scientist
 
+## Publication
+
+## Scientific Membership
+
+-   Psychometric Society
+
+-   Association for Psychological Science
+
+-   Psychonomic Society
+
+-   The Japan Association for Research on Testing
+
+-   The Behaviometric Society of Japan
+
+-   The Japanese Psychological Association
+
+-   The Japanese Statistical Society
+
 ## Award
 
 -   General Manager Award of IBM Japan, 2019/2H.
