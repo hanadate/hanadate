@@ -6,7 +6,7 @@ editor: visual
 
 ## Interests
 
-R lang, Sample Size Determination (Sample Size Justification), Sequential Analysis, Test theory, Bayesian Modeling, Psychometrics, Graph theory, Linear algebra, Ubuntu, MPI, C++, Agile, Scrum.
+R lang, Sample Size Determination (Sample Size Justification), Sequential Analysis, Test theory, Bayesian Modeling, Psychometrics.
 
 Movie, Anime, Manga, Manzai, Book hoarding, Martial Arts, Dharma and Zenn.
 
@@ -30,6 +30,18 @@ Movie, Anime, Manga, Manzai, Book hoarding, Martial Arts, Dharma and Zenn.
 
 -   IBM Certified Data Scientist
 
+## License
+
+-   Standard Motorcycle License (普通自動二輪車免許)
+
+-   Class 1 Driver's License (普通自動車免許)
+
+-   Boxer License
+
+-   After-school Child Care Worker (放課後児童支援員)
+
+-   Herbal Health Counselor (漢方養生指導士)
+
 ## Publication
 
 ## Scientific Membership
@@ -40,13 +52,13 @@ Movie, Anime, Manga, Manzai, Book hoarding, Martial Arts, Dharma and Zenn.
 
 -   Psychonomic Society
 
--   The Japan Association for Research on Testing
+-   The Japan Association for Research on Testing (日本テスト学会)
 
--   The Behaviometric Society of Japan
+-   The Behaviometric Society of Japan (日本行動計量学会)
 
--   The Japanese Psychological Association
+-   The Japanese Psychological Association (日本心理学会)
 
--   The Japanese Statistical Society
+-   The Japanese Statistical Society (日本統計学会)
 
 ## Award
 
@@ -62,15 +74,15 @@ Movie, Anime, Manga, Manzai, Book hoarding, Martial Arts, Dharma and Zenn.
 
 2012: Enrolled in Waseda University for undergraduate program in Psychology. Graduated in 2016. SV: Toyoda, Hideki.
 
-2006: Enrolled in Waseda Junior & Senior High School.
+2006: Enrolled in Waseda Junior & Senior High School. Graduated in 2012.
 
-1993: Born in Kanagawa.
+1993: Born in Kanagawa. Raised in Tokyo.
 
 ## Side Hustle
 
--   Boxing: In Waseda University, was a fly-weight or bantam-weight boxer for a club team, which produced a world champion and some japan champions. And 2021, it was 5 years after the graduation, proceeded into professional rings. Although the career was not successful, learned alot.
+-   Boxing: In Waseda University, was a fly-weight or bantam-weight boxer for a club team, which produced a world champion and some japan champions. And 2021, it was 5 year blank after the graduation, proceeded into professional rings. Although the career was not successful, learned alot.
 
--   Teaching Japanese: In my hometown Mitaka, working as a volunteer for Mitaka International Society for Hospitality (MISHOP).
+-   Teaching Japanese: In my hometown Mitaka, working as a volunteer for Let's Learn Japanese (LLJ) in Mitaka International Society for Hospitality (MISHOP).
 
 -   Supporting Research: In University of Tsukuba, working for Global Front-runner in Engeneering, Science & Technology (GFEST) to support research by high school students. Provided skills and knowledges about psychometrics to enhance their research.
 
