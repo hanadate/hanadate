@@ -86,6 +86,10 @@ Movie, Anime, Manga, Manzai, Book hoarding, Martial Arts, Dharma and Zenn.
 
 -   Supporting Research: In University of Tsukuba, working for Global Front-runner in Engeneering, Science & Technology (GFEST) to support research by high school students. Provided skills and knowledges about psychometrics to enhance their research.
 
+    -   Relationships between Handwritings Style and Preferences.
+
+    -   Gender differences for Trypophobia.
+
 ## Contact
 
 hanadate.shuhei.tkb_gb\[atmark\]u.tsukuba.ac.jp
