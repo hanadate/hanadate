@@ -8,7 +8,7 @@ editor: visual
 
 R lang, Sample Size Determination (Sample Size Justification), Sequential Analysis, Test theory, Bayesian Modeling, Psychometrics.
 
-Movie, Anime, Manga, Manzai, Book hoarding, Martial Arts, Dharma and Zenn.
+Movie, Anime, Manga, Manzai, Book hoarding, Martial Arts, Dharma and Soto Zen.
 
 ## ORCID
 
@@ -43,6 +43,10 @@ Movie, Anime, Manga, Manzai, Book hoarding, Martial Arts, Dharma and Zenn.
 -   Boxer License (2021\~2023)
 
 ## Publication
+
+## Poster
+
+-   Hanadate, S. & Yamaguchi, K. (2025 March). Simulation-based sensitivity analysis for sample size planning of Rasch family models. The Japan Statistical Society. Tokyo, Japan.
 
 ## Scientific Membership
 
