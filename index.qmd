@@ -4,7 +4,7 @@ format: html
 editor: visual
 ---
 
-## Interests
+## Interest
 
 R lang, Sample Size Determination (Sample Size Justification), Sequential Analysis, Test theory, Bayesian Modeling, Psychometrics.
 
