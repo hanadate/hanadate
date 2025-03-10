@@ -44,9 +44,11 @@ Movie, Anime, Manga, Manzai, Book hoarding, Martial Arts, Dharma and Soto Zen.
 
 ## Publication
 
+1.  [**Hanadate, S**]{.underline}., & Yamaguchi, K. (2025, March 10). Simulation-based sensitivity analysis for sample size planning of Rasch family models. \<Preprint\> <https://doi.org/10.31219/osf.io/pu53j_v1>
+
 ## Poster
 
--   Hanadate, S. & Yamaguchi, K. (2025 March). Simulation-based sensitivity analysis for sample size planning of Rasch family models. The Japan Statistical Society. Tokyo, Japan.
+-   [**Hanadate, S.**]{.underline} & Yamaguchi, K. (2025 March). Simulation-based sensitivity analysis for sample size planning of Rasch family models. The Japan Statistical Society. Tokyo, Japan.
 
 ## Scientific Membership
 
