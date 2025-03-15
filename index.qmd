@@ -2,6 +2,7 @@
 title: "Hanadate, Shuhei (花立 修平)"
 format: html
 editor: visual
+toc: TRUE
 ---
 
 ## Interest
