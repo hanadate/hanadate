@@ -7,9 +7,9 @@ toc: TRUE
 
 ## Interest
 
-Sample size determination (Sample size justification), Sequential analysis, Test theory, Bayesian modeling, Psychometrics, and R-lang.
+Sample size planning (Sample size justification), Experimental design, Sequential analysis, Test theory, Item response theory, Bayesian modeling, Psychometrics, and R-lang.
 
-Movie, Anime, Manga, Manzai, Book hoarding, Martial Arts, Dharma and Soto Zen.
+Book hoarding, Martial Arts, Dharma and Soto Zen.
 
 ## ORCID
 
