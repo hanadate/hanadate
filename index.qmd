@@ -45,11 +45,11 @@ Book hoarding, Martial Arts, Dharma and Soto Zen.
 
 ## Publication
 
-1.  [**Hanadate, S**]{.underline}., & Yamaguchi, K. (2025, March 10). Simulation-based sensitivity analysis for sample size planning of Rasch family models. \[Preprint\] <https://doi.org/10.31219/osf.io/pu53j_v1>
+1.  [**Hanadate, S**]{.underline}., & Yamaguchi, K. (2025, March 10). Simulation-based sample size planning for Rasch family models. \[Preprint\] <https://doi.org/10.31219/osf.io/pu53j_v2>
 
 ## Poster
 
--   [**Hanadate, S.**]{.underline} & Yamaguchi, K. (2025 March). Simulation-based sensitivity analysis for sample size planning of Rasch family models. The Japan Statistical Society. Tokyo, Japan.
+-   [**Hanadate, S.**]{.underline} & Yamaguchi, K. (2025 July). Simulation-based sensitivity analysis for power of Rasch family models. International Meeting of Psychometric Society 2025. Minneapolis, USA.
 
 ## Scientific Membership
 
