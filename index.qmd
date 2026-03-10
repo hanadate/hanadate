@@ -45,27 +45,14 @@ Book hoarding, Martial Arts, Dharma and Soto Zen.
 
 ## Publication
 
-1.  [**Hanadate, S**]{.underline}., & Yamaguchi, K. (2025, March 10). Simulation-based sample size planning for Rasch family models. \[Preprint\] <https://doi.org/10.31219/osf.io/pu53j_v2>
+1.  [**Hanadate, S.**]{.underline} (2026, March 5). *Group sequential methods for detecting differential item functioning*. \[Preprint\] <https://doi.org/10.31234/osf.io/qgvu6_v1>
+
+2.  [**Hanadate, S**]{.underline}., & Yamaguchi, K. (2025, March 10). *Simulation-based sample size planning for Rasch family models.* \[Preprint\] <https://doi.org/10.31219/osf.io/pu53j_v2>
 
 ## Poster
 
--   [**Hanadate, S.**]{.underline} & Yamaguchi, K. (2025 July). Simulation-based sensitivity analysis for power of Rasch family models. International Meeting of Psychometric Society 2025. Minneapolis, MN, USA.
-
-## Scientific Membership
-
--   Psychometric Society
-
--   Association for Psychological Science
-
--   Psychonomic Society
-
--   The Japan Association for Research on Testing (日本テスト学会)
-
--   The Behaviometric Society of Japan (日本行動計量学会)
-
--   The Japanese Psychological Association (日本心理学会)
-
--   The Japanese Statistical Society (日本統計学会)
+1.  横井 美緒○，佐々木 銀河，花立 修平，森 千夏，山口 一大，「教育機関に在籍する学生を対象とした合理的配慮に関する理解度テストについて」,全国高等教育障害学生支援協議会（AHEAD JAPAN）第11回大会，関西大学，2025年9月
+2.  [**Hanadate, S.**]{.underline} & Yamaguchi, K. (2025 July). Simulation-based sensitivity analysis for power of Rasch family models. International Meeting of Psychometric Society 2025. Minneapolis, MN, USA.
 
 ## Award
 
@@ -74,8 +61,6 @@ Book hoarding, Martial Arts, Dharma and Soto Zen.
 ## Biography (Education and Career)
 
 2024: Enroll in University of Tukuba for master's program in Psychology. The SV is Kazuhiro Yamaguchi.
-
-2021: Be a father.
 
 2016: Started to work as Consultant for data analytics and marketing \@IBM. The last position was a managing consultant who managed 2 or 3 projects parallelly and reporting line for a newbie team. Industries worked for: Pharma, Automotive, and Finance. Quitted it in 2024.
 
@@ -87,7 +72,7 @@ Book hoarding, Martial Arts, Dharma and Soto Zen.
 
 ## Side Hustle
 
--   Research Assistant (2025\~2026): In University of Tsukuba, working for Bureau of Human Empowerment(BHE) to develop a test that measures understandings about reasonable accommodation.
+-   Research Assistant (2025\~2027): In University of Tsukuba, working for Bureau of Human Empowerment(BHE) to develop a test that measures understandings about reasonable accommodation.
 
 -   Supporting Research for high school students (2024\~2026): In University of Tsukuba, working for Global Front-runner in Engeneering, Science & Technology (GFEST) to support research by high school students. Provided skills and knowledges about psychometrics to enhance their research.
 
@@ -95,7 +80,7 @@ Book hoarding, Martial Arts, Dharma and Soto Zen.
 
     -   Gender differences for Trypophobia.
 
--   Teaching Japanese (2024\~2025): In my hometown Mitaka, working as a volunteer for Let's Learn Japanese (LLJ) in Mitaka International Society for Hospitality (MISHOP).
+-   Teaching Japanese (2024\~2026): In my hometown Mitaka, working as a volunteer for Let's Learn Japanese (LLJ) in Mitaka International Society for Hospitality (MISHOP).
 
 -   Boxing (2009\~2023): In Waseda University, was a fly or bantam weight boxer for a club team, which produced a world champion and some japan champions. And 2021, it was 5 year blank after the graduation, proceeded into professional rings. Although the career was not successful, learned a lot.
 
